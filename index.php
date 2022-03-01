@@ -7,7 +7,7 @@ $app = new Pop();
 
 // Home page: http://localhost:8000/
 $app->get('/', function() {
-    http_response_code( 400 );
+    http_response_code( 404 );
     echo 'Hello World!';
 });
 
