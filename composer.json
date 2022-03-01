@@ -1,0 +1,5 @@
+{
+    "require": {
+        "popphp/popcorn": "^3.4"
+    }
+}
